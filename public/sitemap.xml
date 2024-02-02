@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://thesomamyth.github.io/portfolio/</loc>
   </url><url>
-    <loc>https://www.example.com/categories/</loc>
+    <loc>https://thesomamyth.github.io/portfolio/categories/</loc>
   </url><url>
-    <loc>https://www.example.com/games/</loc>
+    <loc>https://thesomamyth.github.io/portfolio/games/</loc>
   </url><url>
-    <loc>https://www.example.com/writing/</loc>
+    <loc>https://thesomamyth.github.io/portfolio/writing/</loc>
   </url><url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>https://thesomamyth.github.io/portfolio/tags/</loc>
   </url>
 </urlset>
