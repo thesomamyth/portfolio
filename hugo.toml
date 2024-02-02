@@ -3,7 +3,7 @@ title = "Dominik Jarco"
 author = "Dominik Jarco"
 canonifyurls = true
 languagecode = "en"
-theme = "black-and-light"
+theme = "djs-theme"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
