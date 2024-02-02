@@ -1,0 +1,30 @@
+baseurl = "https://www.example.com/"
+title = "Dominik Jarco"
+author = "Dominik Jarco"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Dominik Jarco"
+  sitesubheading = "Narrative and Game Dev"
+  disableWebFonts = false
+
+[[menus.main]]
+name = 'About'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Games'
+pageRef = '/games'
+weight = 20
+
+[[menus.main]]
+name = 'Writing'
+pageRef = '/writing'
+weight = 30
+
